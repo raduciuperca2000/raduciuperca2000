@@ -8,7 +8,7 @@ Lorem ipsum
 
 * 🌍  I'm based in Bucharest, RO
 * ✉️  You can contact me at [radu-mihail@serviceimo.ro](mailto:radu-mihail@serviceimo.ro)
-* 🚀  I'm currently working on [myRoutineMed](http://routine-app.serviceimo.ro)
+* 🚀  I'm currently working on [myRoutineMed](http://routine-app.serviceimo.ro), an appointment app for medical clinics
 * 🧠  I'm learning Docker Containerization
 * 🤝  I'm open to collaborating on any project is a challenge to learn new skills
 
