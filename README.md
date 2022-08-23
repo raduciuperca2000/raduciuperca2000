@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer - PHP & Java
 ------------------------------
 
-Lorem ipsum
-
 * 🌍  I'm based in Bucharest, RO
 * ✉️  You can contact me at [radu-mihail@serviceimo.ro](mailto:radu-mihail@serviceimo.ro)
 * 🚀  I'm currently working on [myRoutineMed](http://routine-app.serviceimo.ro), an appointment app for medical clinics
