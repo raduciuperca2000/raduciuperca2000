@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radu-Mihail Ciuperca
 ============================================================================================================================================
 
-**POWER PLATFORM DEVELOPER - [BearingPoint Romania](https://bearingpoint.com)**
-Backend Developer - .NET, Power Platform & PHP
+**🏢 Power Platform Developer - [BearingPoint Romania](https://bearingpoint.com)**</br>
+👨‍💻 Backend Developer - .NET, Power Platform & PHP
 ------------------------------
 
 * 🌍  I'm based in Bucharest, RO
