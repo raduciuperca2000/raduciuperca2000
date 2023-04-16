@@ -1,13 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radu-Mihail Ciuperca
 ============================================================================================================================================
 
-Backend Developer - PHP & Java
+**POWER PLATFORM DEVELOPER - [BearingPoint Romania](https://bearingpoint.com)**
+Backend Developer - .NET, Power Platform & PHP
 ------------------------------
 
 * 🌍  I'm based in Bucharest, RO
 * ✉️  You can contact me at [radu-mihail@serviceimo.ro](mailto:radu-mihail@serviceimo.ro)
-* 🚀  I'm currently working on [myRoutineMed](http://routine-app.serviceimo.ro), an appointment app for medical clinics
-* 🧠  I'm learning Docker Containerization
+* 🚀  I'm currently working on TransBuc, a system for management of transporation system 
+* 🧠  I'm learning ASP .NET Core & Entity Framework
 * 🤝  I'm open to collaborating on any project is a challenge to learn new skills
 
 ### Skills
