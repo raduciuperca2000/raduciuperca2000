@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bucharest, RO
 * ✉️  You can contact me at [radu-mihail@serviceimo.ro](mailto:radu-mihail@serviceimo.ro)
-* 🚀  I'm currently working on M I I M , an ERP for small and medium businesses in Romania
+* 🚀  I'm currently working on IMM Assist , an ERP for small and medium businesses in Romania
 * 🧠  I'm learning ASP .NET Core & Entity Framework
 * 🤝  I'm open to collaborating on any project is a challenge to learn new skills
 
