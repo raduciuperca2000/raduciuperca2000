@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radu-Mihail Ciuperca
 ============================================================================================================================================
 
-**🏢 Power Platform Developer - [BearingPoint Romania](https://bearingpoint.com)**</br>
+**🏢 Power Platform Software Engineer - [BearingPoint Romania](https://bearingpoint.com)**</br>
 👨‍💻 Backend Developer - .NET, Power Platform & PHP
 ------------------------------
 
 * 🌍  I'm based in Bucharest, RO
-* ✉️  You can contact me at [radu-mihail@serviceimo.ro](mailto:radu-mihail@serviceimo.ro)
+* ✉️  You can contact me at [radu@kodalix.ro](mailto:radu@kodalix.ro)
 * 🚀  I'm currently working on IMM Assist , an ERP for small and medium businesses in Romania
 * 🧠  I'm learning ASP .NET Core & Entity Framework
 * 🤝  I'm open to collaborating on any project is a challenge to learn new skills
